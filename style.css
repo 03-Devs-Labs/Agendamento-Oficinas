@@ -218,4 +218,13 @@ button:hover {
         right: 0;
         margin-bottom: 20px;
     }
+
+    footer {
+    text-align: center;
+    padding: var(--spacing-xl) var(--spacing-lg);
+    margin-top: var(--spacing-xl);
+    border-top: 2px solid var(--border-color);
+    color: #7f8c8d;
+    font-size: 0.85em;
+}
 }
